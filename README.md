@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bande-strong/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bande Strong](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bande-strong/) |
+| **Get License** | [Music Rights & Licensing for Bande Strong](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bande-strong/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `86f08bf76d0a798fc2c8fb131f0cfe55c9f4db55c5c0c3531443f00665794822` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
