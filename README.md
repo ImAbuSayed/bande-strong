@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhaan vich teri shine kare mera khwaab ni
+> Raatan nu main kalla takkda tera shabaab ni
+> Teri wild energy ne kitta mainu choor
+> Nede aaja give it up, na ja mere ton door
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
